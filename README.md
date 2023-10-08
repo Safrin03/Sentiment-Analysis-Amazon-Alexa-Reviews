@@ -15,6 +15,13 @@ Through my analysis, I successfully developed accurate sentiment classification 
 - Naive Bayes Accuracy: ~92%
 - LSTM Model Accuracy: 93.18%
 
+<b> Link to Notebook: [Amazon Alexa Reviews-Sentiment Analysis]() </b>
+
+
 ## Data Source
 
-This project showcases the capability of NLP techniques and machine learning models to analyze and categorize customer sentiments, thereby assisting businesses in making data-driven decisions based on customer feedback.
+<b>Check out this [link](https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews/data) to find the datasets of this project.</b>
+
+ 
+Overall, this project showcases the capability of NLP techniques and machine learning models to analyze and categorize customer sentiments, thereby assisting businesses in making data-driven decisions based on customer feedback.
+
