@@ -15,7 +15,7 @@ Through my analysis, I successfully developed accurate sentiment classification 
 - Naive Bayes Accuracy: ~92%
 - LSTM Model Accuracy: 93.18%
 
-<b> Link to Notebook: [Amazon Alexa Reviews-Sentiment Analysis]() </b>
+<b> Link to Notebook: [Amazon Alexa Reviews-Sentiment Analysis](https://github.com/Safrin03/Sentiment-Analysis-Amazon-Alexa-Reviews/blob/main/Amazon-Alexa-Reviews-Sentiment-Analysis.ipynb) </b>
 
 
 ## Data Source
